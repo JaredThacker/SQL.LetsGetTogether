@@ -1,0 +1,1 @@
+SELECT * FROM Enrolments as E RIGHT JOIN Students as S ON E.StudentID = S.StudentID;
